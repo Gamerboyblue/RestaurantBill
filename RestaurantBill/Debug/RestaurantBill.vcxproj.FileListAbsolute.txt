@@ -1,0 +1,2 @@
+C:\Users\ngleesing\source\repos\Fall 2022\Programming 1\RestaurantBill\Debug\RestaurantBill.exe
+C:\Users\ngleesing\source\repos\Fall 2022\Programming 1\RestaurantBill\Debug\RestaurantBill.pdb
